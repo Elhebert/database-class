@@ -3,6 +3,7 @@
 ## Installation
 
 1) Add the Database.php file to your project
+
 2) Initialisze the class
 ```
 $db = new Database($host, $user, $passwd, $name);
